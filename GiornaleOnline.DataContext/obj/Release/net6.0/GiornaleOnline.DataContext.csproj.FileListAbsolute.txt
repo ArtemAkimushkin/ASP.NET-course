@@ -1,0 +1,14 @@
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\bin\Release\net6.0\GiornaleOnline.DataContext.deps.json
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\bin\Release\net6.0\GiornaleOnline.DataContext.runtimeconfig.json
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\bin\Release\net6.0\GiornaleOnline.DataContext.dll
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\bin\Release\net6.0\GiornaleOnline.DataContext.pdb
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.csproj.AssemblyReference.cache
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.AssemblyInfoInputs.cache
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.AssemblyInfo.cs
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.dll
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\refint\GiornaleOnline.DataContext.dll
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.pdb
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\GiornaleOnline.DataContext.genruntimeconfig.cache
+C:\Users\yufun\source\repos\GiornaleOnline\GiornaleOnline.DataContext\obj\Release\net6.0\ref\GiornaleOnline.DataContext.dll
